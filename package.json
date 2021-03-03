@@ -51,7 +51,7 @@
     "popper.js": "^1.14.4",
     "profanities": "^2.11.0",
     "promise-queue": "2.2.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "request": "^2.88.0",
     "selectize": "0.12.4",
     "semver": "^5.5.0",
