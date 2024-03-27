@@ -35,7 +35,7 @@
     "es6-shim": "^0.35.6",
     "eslint-plugin-header": "^3.1.1",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "file-saver": "^2.0.5",
     "fs-extra": "^10.0.0",
     "golden-layout": "^1.5.9",
